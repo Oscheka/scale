@@ -120,7 +120,7 @@
     subarea: "Western Area",
   },
   {
-    area: "Sir Samuel Lewis Road",
+    area: "Sir Samuel Lewis Road", 
     geonameid: 2410021,
     name: "Fully Covered",
     subarea: "Western Area",
